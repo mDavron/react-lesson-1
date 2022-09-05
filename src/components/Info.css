@@ -1,0 +1,23 @@
+.info {
+  background: #aa9e54;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+.info-box {
+  text-align: center;
+  flex: 33.3%;
+  padding: 0 30px;
+}
+.info-box ul li {
+  cursor: pointer;
+  color: #fff;
+  line-height: 32px;
+  font-family: Inter;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: center;
+}

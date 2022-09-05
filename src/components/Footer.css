@@ -1,0 +1,23 @@
+.footer {
+  background-color: #4a2b33;
+  padding: 100px 56px;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+.footer-title {
+  flex: 40%;
+  color: #d27487;
+  font-family: "Azeret Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 47px;
+  line-height: 62px;
+  letter-spacing: 1px;
+}
+.footer-text {
+  flex: 60%;
+  font-size: 18px;
+  color: #d27487;
+  text-align: left;
+}

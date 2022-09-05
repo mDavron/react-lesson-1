@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono&display=swap');
+/* Inter */
+/* Azeret Mono */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  background-color: #fff;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+.container {
+  padding-right: 56px;
+  padding-left: 56px;
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flex-gap {
+  gap: 20px;
+}
+footer{
+  font-family: 'Azeret Mono', monospace;
+  font-weight: 400;
+}
+.app{
+  width: 100%;
+}
